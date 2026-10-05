@@ -1,12 +1,14 @@
 {
-  "engines": {
-    "node": "22.7.0"
-  },
   "name": "major_project",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "22.7.0"
   },
   "keywords": [],
   "author": "",
@@ -27,6 +29,5 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0"
-  },
-  "description": ""
+  }
 }
