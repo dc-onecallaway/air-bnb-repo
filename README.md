@@ -1,4 +1,4 @@
-# 🏡 Delta Project
+# 🏡 WanderLust
 
 > A full-stack Airbnb-style property listing platform built with **Node.js, Express.js, MongoDB, and EJS**, featuring authentication, property CRUD operations, image uploads, reviews, validation, and interactive maps.
 
@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 
-**Delta Project** is a server-rendered full-stack web application inspired by property-rental and marketplace platforms.
+**WanderLust** is a server-rendered full-stack web application inspired by property-rental and marketplace platforms.
 
 The application allows users to:
 
@@ -33,7 +33,7 @@ The project demonstrates the implementation of a complete **MVC-style Express ap
 
 ## 🔗 Live Application
 
-### 🌐 [Open Delta Project](https://delta-project-un1r.onrender.com/listings)
+### 🌐 [Open WanderLust](https://delta-project-un1r.onrender.com/listings)
 
 The deployed application is hosted on **Render**.
 
@@ -196,7 +196,7 @@ HTML Response
 ## 📂 Project Structure
 
 ```text
-Delta-project/
+air-bnb-repo/
 │
 ├── controllers/
 │   ├── listings.js          # Listing controller logic
@@ -402,8 +402,8 @@ Install:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/dc-onecallaway/Delta-project.git
-cd Delta-project
+git clone https://github.com/dc-onecallaway/air-bnb-repo.git
+cd air-bnb-repo
 ```
 
 ### 2. Install dependencies
